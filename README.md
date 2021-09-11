@@ -6,7 +6,7 @@ Hey there ! I´m Antonio, a dev who loves anime, sport and ✨ web design ✨
 
 Find me in:
 
-💼 My personal [Linkedin](https://www.linkedin.com/in/antonio-cort%C3%A9s-jim%C3%A9nez-505423207/
+💼 My personal [Linkedin](https://www.linkedin.com/in/antonio-cort%C3%A9s-jim%C3%A9nez-505423207/)
 
 ***
 
