@@ -7,6 +7,7 @@ Hey there ! I´m Antonio, a dev who loves anime, sport and ✨ web design ✨
 ## Find me 🔍
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-cort%C3%A9s-jim%C3%A9nez/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ditacj78@gmail.com)
 
 ## Languajes and Tools 🛠️
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
