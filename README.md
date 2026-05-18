@@ -2,5 +2,4 @@
 
 ## About me ✍️
 
-Hey there ! I´m Antonio, a dev who loves anime, sport and ✨ web design ✨
-
+Developer obsessed with clean code and good design.
